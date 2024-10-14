@@ -8,6 +8,8 @@ public class ClassOne {
        String name ="Sazzad Vai";
        String Age="100";
 
+       String cName="Country Name";
+
     
     }
 }
