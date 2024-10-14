@@ -8,6 +8,6 @@ public class ClassOne {
        String name ="Sazzad Vai";
        String Age="100";
 
-       String countryName="Bangladesh";
+    
     }
 }
