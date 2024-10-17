@@ -4,6 +4,7 @@ public class ClassTwo {
     String name = "Zedan";
 
     int time = 2;
+    System.out.print(time);
     
 
 
