@@ -6,10 +6,10 @@ public class ClassOne {
        //Do again the merge
 
        String name ="Sazzad Vai";
-       String Age="100";
+       String Age="40";
 
-       String cName="Country Name";
-
+       String cName="European Country Name";
+       System.out.println (cName +"Finland");
     
     }
 }
